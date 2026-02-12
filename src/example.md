@@ -141,10 +141,6 @@ function showSnackbar() {
 - 支持更换代码样式主题
 - 代码长度溢出时横向滚动
 
-**更多请参考**：
-[NeuraPress版本更新记录](https://github.com/tianyaxiang/neurapress)
-
-![qrcode](https://open.weixin.qq.com/qr/code?username=gh_e0164b13e4a0)
 
 ***
 <a id="jump_1">我是页内跳转到的位置</a>
